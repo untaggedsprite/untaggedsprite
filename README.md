@@ -1,16 +1,19 @@
-## Hi there 👋
+𖤐 K
 
-<!--
-**untaggedsprite/untaggedsprite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+writer / tinkerer / pattern-gremlin  
+building small strange things
 
-Here are some ideas to get you started:
+### currently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- building private writing spaces and weird little web habits
+- learning by breaking things
+- collecting fragments, patterns, and cute bugs
+
+### texture
+
+`creative coding` · `web experiments` · `archives` · `worldbuilding`  
+`horror` · `myth` · `old internet`
+
+### warning label
+
+there is a rat in the walls. ᘛ⁐̤ᕐᐷ
